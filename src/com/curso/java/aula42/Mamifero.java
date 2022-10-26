@@ -1,0 +1,7 @@
+package com.curso.java.aula42;
+
+public abstract class Mamifero extends Animal{
+	
+	public abstract void amamentar();
+	
+}
